@@ -15,3 +15,5 @@
 
 - create new user
 - 
+
+http://christopher5106.github.io/admin/2018/02/02/configure-windows-10-for-ubuntu.html
