@@ -17,3 +17,19 @@
 - 
 
 http://christopher5106.github.io/admin/2018/02/02/configure-windows-10-for-ubuntu.html
+
+
+
+## Installation notes
+### Ubuntu-20.04
+#### simNIBS
+##### extra packages to install
+- libqt5opengl5
+- libqt5opengl5-dev
+#### FSL
+https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FslInstallation/Windows#Windows_Subsystem_for_Linux
+
+### UbuntuFL-0.1
+#### Packages installed
+- simNIBS
+- freesurfer
